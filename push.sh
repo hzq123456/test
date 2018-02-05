@@ -2,4 +2,4 @@
 cd /mnt/hgfs/test/
 git add .
 git commit -m "auto push"
-git push
+git push -u origin master
