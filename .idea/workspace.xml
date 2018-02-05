@@ -29,17 +29,27 @@
         <entry file="file://$PROJECT_DIR$/.git/hooks/post-receive">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
-              <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+              <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="push.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="aa.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aa.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="push.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/push.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -74,6 +84,7 @@
         <option value="$PROJECT_DIR$/push.sh" />
         <option value="$PROJECT_DIR$/aa" />
         <option value="$PROJECT_DIR$/.git/hooks/post-receive" />
+        <option value="$PROJECT_DIR$/aa.txt" />
       </list>
     </option>
   </component>
@@ -254,12 +265,12 @@
       <workItem from="1517793246743" duration="612000" />
       <workItem from="1517797074960" duration="1573000" />
       <workItem from="1517799317781" duration="5688000" />
-      <workItem from="1517818548725" duration="3222000" />
+      <workItem from="1517818548725" duration="3819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59120000" />
+    <option name="totallyTimeSpent" value="59717000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="57" width="1456" height="876" extended-state="0" />
@@ -299,7 +310,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/error.log" />
     <entry file="file://$PROJECT_DIR$/spl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="744">
@@ -550,6 +560,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/push.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aa.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.git/hooks/post-update">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
@@ -561,15 +587,7 @@
     <entry file="file://$PROJECT_DIR$/.git/hooks/post-receive">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/push.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
           <folding />
         </state>
       </provider>
